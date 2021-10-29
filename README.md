@@ -1,6 +1,4 @@
-pip install -r requirements.txt
-python manage.py runserver
-[![Solved.ac/jotos](http://mazassumnida.wtf/api/v2/generate_badge?boj={jotos})](https://solved.ac/{jotos})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jotos)](https://solved.ac/jotos)
 
 
 <!--
