@@ -1,4 +1,4 @@
-[![https://solved.ac/profile/jotos](http://mazassumnida.wtf/api/v2/generate_badge?boj={jotos})](https://solved.ac/{jotos})
+[![Solved.ac/jotos](http://mazassumnida.wtf/api/v2/generate_badge?boj={jotos})](https://solved.ac/{jotos})
 
 
 <!--
