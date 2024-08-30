@@ -1,4 +1,4 @@
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jotos)](https://solved.ac/hanabisuri)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanabisuri)](https://solved.ac/hanabisuri)
 
 
 <!--
